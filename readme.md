@@ -1,4 +1,4 @@
-#readme.grae
+# readme.grae
 
 Hi. We'll be working together and getting to know one another pretty well. This document is a user manual of sorts, a user manual for _me_. A bit about how I work and who I am. It won't replace the time we spend together, but hopefully it's a useful introduction and reference.
 
@@ -12,16 +12,18 @@ As the leader of a team, my job is to build high performing teams. I'll do that 
 
 ## Time / schedule / week
 
-Each week We'll have a scheduled 1-1 for 45 or 60 minutes. Our 1-1 is not a status update meeting. If we should do regular status updates let's schedule those too. Our 1-1 is not my time, it's your time. I'll probably bring some things in each week to talk about, but it's up to you to set the agenda. That agenda is a great place to throw notes throughout the week so they don't get lost. But don't relegate urgent or important things to our 1-1's, if something urgent or important is on your mind let me know right away.
+Each week we'll have a scheduled 1-1 for 45 or 60 minutes. Our 1-1 is not a status update meeting. If we should do regular status updates let's schedule those too. Our 1-1 is not my time, it's your time. I'll probably bring some things in each week to talk about, but it's up to you to set the agenda. That agenda is a great place to throw notes throughout the week so they don't get lost. But don't relegate urgent or important things to our 1-1's, if something urgent or important is on your mind let me know right away.
 
 The best way to get time with me is to book it directly in my calendar. No permission needed. If there's an open time you want: grab it. My calendar is open and transparent. If it's tough to find time in my calendar (it can be!) chat me and I'll make room. There is very little that is more important than talking to you if you have something to talk to me about.
 
 
 ## My beliefs and values
 
-**I value human wellbeing**. I work at Thinkful because the work we do improves lives. The actions I take as a manager I take because _I believe_ they increase the wellbeing of our students, our team, and each individual here. I have yet to see these three priorities conflict. Sometimes this means giving direct feedback, having difficult conversations, or even firing someone. And of course I'm not always right in my judgement about what's best. If I'm wrong or missing something, please give me that feedback so I can correct it.
+### **I value human wellbeing**
+ I work at Thinkful because the work we do improves lives. The actions I take as a manager I take because _I believe_ they increase the wellbeing of our students, our team, and each individual here. I have yet to see these three priorities conflict. Sometimes this means giving direct feedback, having difficult conversations, or even firing someone. And of course I'm not always right in my judgement about what's best. If I'm wrong or missing something, please give me that feedback so I can correct it.
 
-**I value relationships with humans**. I derive a lot of personal fulfilment from my relationships with people. Other people are generally the reason I do all the things that I do. This has its upsides and its downsides. On the upside, I work very hard to create an environment where people thrive because I enjoy seeing the people around me thrive. On the downside, I have a default tendency to be a people pleaser. I'm working on that and pay it deliberate attention. If you see that call it out for me.
+### I value relationships with humans
+I derive a lot of personal fulfilment from my relationships with people. Other people are generally the reason I do all the things that I do. This has its upsides and its downsides. On the upside, I work very hard to create an environment where people thrive because I enjoy seeing the people around me thrive. On the downside, I have a default tendency to be a people pleaser. I'm working on that and pay it deliberate attention. If you see that call it out for me.
 
 **I believe action should be guided by our beliefs about the world**. The world is full of uncertainty and chance, but that doesn't mean we can't form beliefs and act from them. For me those beliefs generally take the form of hypotheses. I'm very open to seeing my hypotheses challenged or disproven. That's how we make progress. I will often explicitly or implicitly challenge you to form and state your own hypotheses when you're evaluating a decision rather than relying on your intuitions or leaving your beliefs unstated.
 
