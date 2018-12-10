@@ -5,7 +5,7 @@ Hi. We'll be working together and getting to know one another pretty well. This 
 ## My job
 As your manager, my job is to enable your high performance. I'll do that by setting context, acting as a sounding board and coach, and removing obstacles in your way. My job is not to tell you what to do, but rather to help you see the right thing to do and get out of your way so you can do it.
 
-As the leader of a team, my job is to build high performing teams. I'll do that by attracting and retaining high performers (you!) and facilitating your collaboration. Important elements of that collaboration include (in no particular order): tight alignment, loose coupling, clear and effective communication, clear ownership & responsibility, accountability & trust, and psychological safety. Our team norms and rituals are intended to foster these things. If you think we're falling short in any way please give me that feedback!
+As the leader of a team, my job is to build high performing teams. I'll do that by attracting and retaining high performers (you!) and facilitating your collaboration. Important elements of that collaboration include (in no particular order): [tight alignment & loose coupling](https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761), clear and effective communication, clear ownership & responsibility, accountability & trust, and [psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/). Our team norms and rituals are intended to foster these things. If you think we're falling short in any way please give me that feedback!
 
 
 ## Time / schedule / week
@@ -43,7 +43,7 @@ You can't get to the truth if you start from a false premise. You can't improve 
 
 
 ## Goal setting
-We use a system of goal setting called "Objectives and Key Results" to set goals at the company, team, and individual level. I'm a big fan. You can see my personal goals (current and previous) here (TODO: link). We'll talk a lot about OKRs.
+We use a system of goal setting called "Objectives and Key Results" to set goals at the company, team, and individual level. I'm a big fan. You can see my personal goals (current and previous) [here](https://docs.google.com/document/d/1CNF4NGmudq5ezJ6mFATY3n0vEZ_cHGOMnZBilqG1G9o/edit#). We'll talk a lot about OKRs.
 
 
 ## Risk and failure
@@ -51,7 +51,7 @@ Sometimes you'll do things and they won't work. That's expected and should happe
 
 
 ## Slack & Email
-Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. Phabricator is good too. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before I can do it for you.
+Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. Phabricator is good too. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before finish it for you.
 
 
 ## Feedback
