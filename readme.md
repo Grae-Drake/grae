@@ -1,5 +1,5 @@
 # readme.grae
-Hey there, I'm Grae.  Welcome to the team!  There's a lot to take in at the beginning, so I would like this document to serve as an introduction and reference.  A sort of orientation, or user manual, to me.  A bit about how I work, and who I am.  This document is a work in progress, and is certainly not comprehensive, so if you have any questions, please ask. 
+Hey there, I'm Grae.  Welcome to the team!  There's a lot to take in at the beginning, so I'd like this document to serve as an introduction and reference.  A sort of orientation, or user manual, to me.  A bit about how I work, and who I am.  This document is a work in progress, and is certainly not comprehensive, so if you have any questions, please ask. 
 
 
 ## My job
