@@ -39,7 +39,7 @@ For entirely selfish reasons, I want you way up high on Maslow's pyramid. If any
 As cliche as it sounds, Thinkful is an amazing company. I get out of bed energized every day and a little surprised that we get paid to work on this stuff with this group of people. I tend to work hard on the things I'm passionate about. I dedicate time for family from 5pm-8:30pm and most of the weekends, but I'm often back online after the kids go down. That's just how I work. That's _not_ how I expect you to work. If I send you an email or slack message outside business hours I'm doing it to close a loop and _I don't expect you to respond_ before normal working hours.
 
 ### I value honesty and transparency
-You can't get to the truth if you start from a false premise. You can't improve your performance if you don't own up to your weaknesses. You can't fix a problem if you hide it or avoid it. I will be honest and candid with you. This can sometimes come across as being blunt. There may be times I don't answer a question because someone has asked me not to tell you, but I will never lie to you. I expect the same degree of honesty and candor from you.
+You can't get to the truth if you start from a false premise. You can't improve your performance if you don't own up to your weaknesses. You can't fix a problem if you hide it or avoid it. I will be honest and candid with you. This can sometimes come across as being blunt. There may be times I don't share information with you because someone has asked me hold it in confidence, but I will never lie to you. I expect the same degree of honesty and candor from you.
 
 
 ## Goal setting
