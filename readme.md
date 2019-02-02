@@ -51,7 +51,7 @@ Sometimes you'll do things and they won't work. That's expected and should happe
 
 
 ## Slack & Email
-Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. Phabricator is good too. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before finish it for you.
+Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. Phabricator is good too. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before I finish it for you.
 
 
 ## Feedback
