@@ -35,15 +35,9 @@ You wouldn't be here if you weren't. If it feels like I'm questioning that it's 
 ### I believe people do their best work when they're happy and and fulfilled
 For entirely selfish reasons, I want you way up high on Maslow's pyramid. If anything is keeping you down please let me know so I can help you move on up.
 
-### I care about Thinkful a lot
-As cliche as it sounds, Thinkful is an amazing company. I get out of bed energized every day and a little surprised that we get paid to work on this stuff with this group of people. I tend to work hard on the things I'm passionate about. I dedicate time for family from 5pm-8:30pm and most of the weekends, but I'm often back online after the kids go down. That's just how I work. That's _not_ how I expect you to work. If I send you an email or slack message outside business hours I'm doing it to close a loop and _I don't expect you to respond_ before normal working hours.
 
 ### I value honesty and transparency
 You can't get to the truth if you start from a false premise. You can't improve your performance if you don't own up to your weaknesses. You can't fix a problem if you hide it or avoid it. I will be honest and candid with you. This can sometimes come across as being blunt. There may be times I don't share information with you because someone has asked me hold it in confidence, but I will never lie to you. I expect the same degree of honesty and candor from you.
-
-
-## Goal setting
-We use a system of goal setting called "Objectives and Key Results" to set goals at the company, team, and individual level. I'm a big fan. You can see my personal goals (current and previous) [here](https://docs.google.com/document/d/1CNF4NGmudq5ezJ6mFATY3n0vEZ_cHGOMnZBilqG1G9o/edit#). We'll talk a lot about OKRs.
 
 
 ## Risk and failure
@@ -51,7 +45,7 @@ Sometimes you'll do things and they won't work. That's expected and should happe
 
 
 ## Slack & Email
-Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. Phabricator is good too. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before I finish it for you.
+Slack is great but it's also terrible. If you want to chat, hit me up on Slack. But if you have something you want me to do for you _please make sure it lives somewhere more permanent_, like email. There's a decent chance that if you ask me to do something for you on Slack I'll say yes and then forget before I finish it for you.
 
 
 ## Feedback
@@ -63,6 +57,4 @@ I've mentioned this a few times already, but I want and value your feedback. Fee
   * I have a pretty awful sense of humor. Some people think that happened when I became a dad but really I've been unfunny for way longer than that.
   * My wife Stassia, son Kieran, and daughter Rhea are pretty great. I might be biased but I think it's a fair assessment. 
   * I love snowboarding. When skiing or snowboarding, your board(s) are never flat on the ground. You're always balancing on an edge. The best days on the mountain are the days you balance right on the edge of your ability for like a big chunk of the day. Usually it takes riding with other people who are better than me to push me outside my comfort zone and make that happen. Little makes me feel as free or alive.
-  * My quest is to make Thinkful great; my favorite color is blue, the average air speed velocity of a laden, European swallow is 24 mph.
-
 
