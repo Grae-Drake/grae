@@ -15,10 +15,10 @@ The best way to get time with me is to book it directly in my calendar. No permi
 
 
 ## My beliefs and values
-These are the beliefs I have and values I hold that motivate the things I do.
+These beliefs and values are why I do the things I do.
 
 ### I value human wellbeing
- I work at Thinkful because the work we do improves lives. The actions I take as a manager I take because _I believe_ they increase the wellbeing of our students, our team, and each individual here. I have yet to see these three priorities conflict. Sometimes this means giving direct feedback and having difficult conversations. And of course I'm not always right in my judgement about what's best. If I'm wrong or missing something, please give me that feedback so I can correct it.
+ I work here because the work we do improves lives. The actions I take as a manager I take because _I believe_ they increase the wellbeing of our stakeholders, our team, and each individual here. I have yet to see these three priorities conflict. Sometimes this means giving direct feedback and having difficult conversations. And of course I'm not always right in my judgement about what's best. If I'm wrong or missing something, please give me that feedback so I can correct it.
 
 ### I value relationships with humans
 I derive a lot of personal fulfilment from my relationships with people. Other people are generally the reason I do all the things that I do. This has its upsides and its downsides. On the upside, I work very hard to create an environment where people thrive because I enjoy seeing the people around me thrive. On the downside, I have a default tendency to be a people pleaser. I'm working on that and pay it deliberate attention. If you see me doing that call it out for me.
@@ -27,7 +27,7 @@ I derive a lot of personal fulfilment from my relationships with people. Other p
 The world is full of uncertainty and chance, but that doesn't mean we can't form beliefs and act from them. For me those beliefs generally take the form of hypotheses. I'm very open to seeing my hypotheses challenged or disproven. That's how we make progress. I will often explicitly or implicitly challenge you to form and state your own hypotheses when you're evaluating a decision rather than relying on your intuitions or leaving your beliefs unstated.
 
 ### I believe everything is measurable
-That's not to say you _should_ measure everything, just that you _can_. If you think you can't you're probably stating the problem wrong. Whether or not the cost and benefit of measuring something is actually worth it is another thing. I strive to first understand how something could be measured and then actually do the cost-benefit analysis of deciding whether you should measure it. Thinkful can and should be your personal science experiment to learn more about the world.
+That's not to say you _should_ measure everything, just that you _can_. If you think you can't you're probably stating the problem wrong. Whether or not the cost and benefit of measuring something is actually worth it is another thing. I strive to first understand how something could be measured and then actually do the cost-benefit analysis of deciding whether you should measure it. SchoolHouse can and should be your personal science experiment to learn more about the world.
 
 ### I believe that you are very good at your job
 You wouldn't be here if you weren't. If it feels like I'm questioning that it's because I'm either gathering context or trying to be a sounding board. A corollary is that _I'm not as good at your job as you are_. I'll provide context and ask questions to clarify your thinking, but I'm not here to make decisions for you or tell you what to do. This can come off as being frustratingly socratic and if you feel that way _please tell me_.
@@ -56,5 +56,5 @@ I've mentioned this a few times already, but I want and value your feedback. Fee
 
   * I have a pretty awful sense of humor. Some people think that happened when I became a dad but really I've been unfunny for way longer than that.
   * My wife Stassia, son Kieran, and daughter Rhea are pretty great. I might be biased but I think it's a fair assessment. 
-  * I love snowboarding. When skiing or snowboarding, your board(s) are never flat on the ground. You're always balancing on an edge. The best days on the mountain are the days you balance right on the edge of your ability for like a big chunk of the day. Usually it takes riding with other people who are better than me to push me outside my comfort zone and make that happen. Little makes me feel as free or alive.
+  * I love snowboarding. When flying down the mountain your board is never flat on the ground. You're always balancing on an edge. The best days on the mountain are the days you balance right on the edge of your ability for like a big long chunk of the day. Usually it takes riding with other people who are better than me to push me outside my comfort zone and make that happen. Little makes me feel as free or alive.
 
